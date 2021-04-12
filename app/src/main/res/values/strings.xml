@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Virtual Dices</string>
+    <string name="resultado">Resultado:</string>
+    <string name="esperando_os_dados">Esperando a primeira rolagem de dados...</string>
+    <string name="role_os_dados">Role os dados!</string>
+    <string name="primeiro_dado">Primeiro dado</string>
+    <string name="segundo_dado">Segundo dado</string>
+    <string name="teste_a_sua_sorte">Teste a sua sorte!</string>
+</resources>
