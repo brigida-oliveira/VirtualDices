@@ -75,7 +75,7 @@
       </path>
       <path
           android:pathData="M65.234,53.463l45.688,26.311l46.589,-26.465l-45.971,-26.68l-46.306,26.834Z"
-          android:fillColor="@color/main_side"/>
+          android:fillColor="@color/brightest_side"/>
       <path
           android:pathData="M84.973,53.308a6.711,3.857 0,1 0,13.422 0a6.711,3.857 0,1 0,-13.422 0z"
           android:fillColor="#e6e6e6"/>
@@ -102,7 +102,7 @@
           android:fillColor="#c7c7c7"/>
       <path
           android:pathData="M157.528,107.203l-45.704,26.817l-0.902,-54.246l46.588,-26.467l0.018,53.896Z"
-          android:fillColor="@color/brightest_side"/>
+          android:fillColor="@color/main_side"/>
       <path
           android:pathData="M131.081,91.422c-2.068,3.073 -2.314,6.532 -0.548,7.721c1.765,1.189 4.878,-0.341 6.947,-3.413c2.068,-3.073 2.314,-6.532 0.548,-7.721c-1.765,-1.188 -4.878,0.341 -6.947,3.413Z"
           android:fillColor="#fff"/>

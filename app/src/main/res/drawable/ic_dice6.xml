@@ -9,31 +9,31 @@
       android:fillAlpha="0.4"/>
   <path
       android:pathData="M866.055,715.501L460.235,953.61L452.235,471.952L865.895,236.942L866.055,715.501Z"
-      android:fillColor="@color/brightest_side"/>
+      android:fillColor="@color/main_side"/>
   <path
       android:pathData="M46.556,238.332L452.235,471.952L865.904,236.962L457.715,0.062L46.556,238.332Z"
-      android:fillColor="@color/main_side"/>
+      android:fillColor="@color/brightest_side"/>
   <path
       android:pathData="M460.235,953.61L452.235,471.952L46.687,238.352L51.753,705.081L460.235,953.61Z"
       android:fillColor="@color/dark_side"/>
   <path
       android:pathData="M227.536,217.803a34.244,59.589 90,1 0,119.177 0a34.244,59.589 90,1 0,-119.177 0z"
-      android:fillColor="#E6E6E6"/>
+      android:fillColor="#fff"/>
   <path
       android:pathData="M363.025,136.535a34.244,59.589 90,1 0,119.177 0a34.244,59.589 90,1 0,-119.177 0z"
-      android:fillColor="#E6E6E6"/>
+      android:fillColor="#fff"/>
   <path
       android:pathData="M330.005,273.479a34.244,59.589 90,1 0,119.177 0a34.244,59.589 90,1 0,-119.177 0z"
-      android:fillColor="#E6E6E6"/>
+      android:fillColor="#fff"/>
   <path
       android:pathData="M463.984,196.066a34.244,59.589 90,1 0,119.177 0a34.244,59.589 90,1 0,-119.177 0z"
-      android:fillColor="#E6E6E6"/>
+      android:fillColor="#fff"/>
   <path
       android:pathData="M567.18,254.795a34.244,59.589 90,1 0,119.177 0a34.244,59.589 90,1 0,-119.177 0z"
-      android:fillColor="#E6E6E6"/>
+      android:fillColor="#fff"/>
   <path
       android:pathData="M430.366,334.118a34.244,59.589 90,1 0,119.177 0a34.244,59.589 90,1 0,-119.177 0z"
-      android:fillColor="#E6E6E6"/>
+      android:fillColor="#fff"/>
   <path
       android:pathData="M133.232,389.693a59.589,34.244 56.051,1 0,66.556 98.861a59.589,34.244 56.051,1 0,-66.556 -98.861z"
       android:fillColor="#C7C7C7"/>
@@ -51,5 +51,5 @@
       android:fillColor="#C7C7C7"/>
   <path
       android:pathData="M692.901,545.071a59.589,34.244 123.949,1 1,-66.556 98.861a59.589,34.244 123.949,1 1,66.556 -98.861z"
-      android:fillColor="#ffffff"/>
+      android:fillColor="#E6E6E6"/>
 </vector>

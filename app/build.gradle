@@ -11,8 +11,8 @@ android {
         applicationId "com.diceapp.virtualdices"
         minSdkVersion 24
         targetSdkVersion 30
-        versionCode 8
-        versionName "1.0.1"
+        versionCode 10
+        versionName "2.0.4"
         android.defaultConfig.vectorDrawables.useSupportLibrary = true
         android.defaultConfig.ndk.debugSymbolLevel = 'FULL'
 
