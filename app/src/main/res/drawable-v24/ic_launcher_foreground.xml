@@ -9,9 +9,7 @@
     <group>
       <clip-path
           android:pathData="M0,0h682.667v682.667h-682.667z"/>
-      <path
-          android:pathData="M0,0h682.667v682.667h-682.667z"
-          android:fillColor="#fff"/>
+
       <group>
         <clip-path
             android:pathData="M0,0h682.667v682.667h-682.667z"/>

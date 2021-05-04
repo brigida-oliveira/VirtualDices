@@ -7,4 +7,26 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="lightBluBackground">#E9F1F7</color>
+    <color name="lightBackground">#F7E8CB</color>
+    <color name="grayBackground">#E6E8E6</color>
+
+    <!-- Cores dos dados -->
+    <!-- Purple -->
+    <color name="even_more_brightest_side">#A27CF9</color>
+    <color name="brightest_side">#7953D2</color>
+    <color name="bright_side">#542FC3</color>
+    <color name="main_side">#4527A0</color>
+    <color name="dark_side">#000070</color>
+    <color name="darker_side">#000059</color>
+    <color name="darkest_side">#00003F</color>
+
+    <!-- Yellow -->
+<!--    <color name="even_more_brightest_side">#FFFD61</color>-->
+<!--    <color name="brightest_side">#FFE54C</color>-->
+<!--    <color name="bright_side">#FFCA28</color>-->
+<!--    <color name="main_side">#FFB300</color>-->
+<!--    <color name="dark_side">#F29F00</color>-->
+<!--    <color name="darker_side">#E39011</color>-->
+<!--    <color name="darkest_side">#D68400</color>-->
 </resources>

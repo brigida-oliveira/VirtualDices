@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VirtualDices</string>
+    <string name="result">Resultado: </string>
+    <string name="roll_dice">Tirar los dados!</string>
+    <string name="dice_image">Imagen del dado </string>
+    <string name="dice_choice">Elija el número de lados del dado:</string>
+    <string name="d4">4</string>
+    <string name="d6">6</string>
+    <string name="d8">8</string>
+    <string name="d10">10</string>
+    <string name="d12">12</string>
+    <string name="d20">20</string>
+</resources>
